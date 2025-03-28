@@ -1,0 +1,39 @@
+h1 {
+margin: 0;
+padding: 20px 0;
+color: #476a48;
+font-size: 50px;
+text-align: center;
+}
+
+h2 {
+font-size: 20px;
+text-align: center;
+font-style: italic;
+}
+
+body {
+width: 700px;
+margin: 0 auto;
+background-color: #D3E7CB;
+padding: 0 20px 20px 20px;
+border: 5px solid #739f72;
+}
+
+p {
+font-size: 15px;
+line-height: 2;
+letter-spacing: 1px;
+}
+
+html {
+background-color: #A7D8A6;
+font-family: "Roboto", roboto;
+}
+
+img {
+display: block;
+margin: 0 auto;
+max-width: 100%;
+width: 250px;
+}
